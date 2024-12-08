@@ -27,6 +27,12 @@ python scraper.py
 
 The scraped data will be saved in the specified CSV file (game_data.csv by default).
 
+## Screenshot
+
+Below is an example of the scraped data saved into the CSV file:
+
+![Scraped Data Screenshot](https://github.com/user-attachments/assets/a284ca65-04d4-405d-b7ab-097689d63885)
+
 ## Customization
 
 - **Pagination:** 
