@@ -18,14 +18,14 @@ This project is a web scraping tool that extracts data from [SuperBiz](https://s
 
 ## Usage
 
-# Open the script and configure the following settings if necessary:
-# WEBSITE_URL = "https://search.superbiz.gg/"
-# CSV_FILE_NAME = "game_data.csv"
+Open the script and configure the following settings if necessary:
+WEBSITE_URL = "https://search.superbiz.gg/"
+CSV_FILE_NAME = "game_data.csv"
 
-# Run the script to start scraping:
+Run the script to start scraping:
 python scraper.py
 
-# The scraped data will be saved in the specified CSV file (game_data.csv by default).
+The scraped data will be saved in the specified CSV file (game_data.csv by default).
 
 ## Customization
 
